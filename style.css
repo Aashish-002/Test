@@ -65,11 +65,18 @@ nav{
 nav h1{
     position: absolute;
     font-weight:bolder;
-    left: 25%;
+    left: 20%;
     top: -1px;
     font-size: 3.4vw;
     font-family: "Roboto Slab Thin";
 }
+nav h6{
+    position: relative;
+    left: 16vw;
+    top: 7vh;
+    color: rgb(48, 61, 61);
+}
+
 nav img{
    
     height: 8vh;
